@@ -4,6 +4,7 @@
 https://medium.com/ai-in-plain-english/implementation-of-pre-trained-glove-word-embeddings-on-dataset-dceb141297c9
 
 ## Data
+https://github.com/Prachi-Gopalani13/Glove-Embeddings-LSTM-Disaster-Tweets/tree/main/Data
 
 ## The GloVe Model
 The statistics of word occurrences in a corpus is the primary source of information available to all unsupervised methods for learning word representations, and although many such methods now exist, the question still remains as to how meaning is generated from these statistics, and how the resulting word vectors might represent that meaning.
